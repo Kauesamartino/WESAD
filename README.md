@@ -1,3 +1,9 @@
+# Integrantes
+
+- Kauê Vinicius Samartino da Silva - 559317
+- João dos Santos Cardoso de Jesus - 560400
+- Davi Praxedes Santos - 560719
+
 # Neocare - WESAD Stress Prediction API
 
 API em Python com FastAPI para classificar estresse a partir de sinais fisiologicos do dataset WESAD. O sistema foi estruturado para funcionar como o componente de IA de uma solucao integrada com Oracle APEX e Oracle Database, servindo inferencia, metadados do modelo e uma base tecnica para demonstracao do Challenge.
@@ -393,5 +399,7 @@ Isso melhora rastreabilidade das decisoes no workspace, mas nao interfere na exe
 4. Separar a estrutura atual em pacotes `api`, `schemas`, `services` e `ml` para facilitar evolucao.
 
 ## Referencia
+
+Dataset no Kaggle: https://www.kaggle.com/datasets/orvile/wesad-wearable-stress-affect-detection-dataset
 
 Schmidt, P., Reiss, A., Duerichen, R., Marberger, C., and Van Laerhoven, K. Introducing WESAD, a Multimodal Dataset for Wearable Stress and Affect Detection. ICMI 2018.
