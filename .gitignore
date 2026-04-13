@@ -1,0 +1,28 @@
+# Dados do dataset WESAD (restrição de uso acadêmico)
+WESAD/
+
+# Modelo serializado — gerado localmente via controller.py
+*.joblib
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs e outputs temporários
+treino_output.txt
+*.log
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
